@@ -5,7 +5,7 @@ def find_element_index(array, value_to_find)
     count += 1
   end
   if count < array.length
-   count
+    count
   else
     nil
 end
